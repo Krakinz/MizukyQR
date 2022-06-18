@@ -1,9 +1,9 @@
-cons fs=require('fs');
-cons chalk=require('chalk');
-cons string=requre(index.js);
-cons os=require('os');
-async function String() {
+const fs=require('fs');
+const chalk=require('chalk');
+const string=requre(index.js);
+const os=require('os');
+async function Buffer() {
 fs.asyc(index.js);
 chalk.green.bold(os.system(node index.js));
 }
-String{}
+Buffer{}
