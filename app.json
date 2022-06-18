@@ -3,5 +3,5 @@
   "name": "MizukyQR",
   "repository": "https://github.com/Krakinz/MizukyQR.git",
   "stack": "container",
-  "description": "Mizuky QR code Generator",
+  "description": "Mizuky QR code Generator"
 }
