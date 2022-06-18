@@ -1,0 +1,23 @@
+{
+  "logo": "https://i.postimg.cc/sDXbg5xF/image.png",
+  "name": "Mizuky™",
+  "repository": "https://github.com/Krakinz/MizukyQR.git",
+  "stack": "container",
+  "description": "Mizuky QR code Generator",
+  "keywords": [
+    "whatsapp",
+    "js-whatsapp",
+    "whatsapp-api",
+    "whatsapp-web",
+    "whatsapp",
+    "whatsapp-chat",
+    "whatsapp-group",
+    "automation"
+  ],
+  "env": {
+    "MIZUKI": {
+      "description": "Put Your Country Code",
+      "required": true,
+      "value": "254"
+    }
+}
